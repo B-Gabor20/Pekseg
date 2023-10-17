@@ -1,0 +1,7 @@
+C:\programozas\asztalialkalmazasok\pekseg\pekseg\pekseg\bin\Debug\pekseg.exe.config
+C:\programozas\asztalialkalmazasok\pekseg\pekseg\pekseg\bin\Debug\pekseg.exe
+C:\programozas\asztalialkalmazasok\pekseg\pekseg\pekseg\bin\Debug\pekseg.pdb
+C:\programozas\asztalialkalmazasok\pekseg\pekseg\pekseg\obj\Debug\pekseg.csproj.AssemblyReference.cache
+C:\programozas\asztalialkalmazasok\pekseg\pekseg\pekseg\obj\Debug\pekseg.csproj.CoreCompileInputs.cache
+C:\programozas\asztalialkalmazasok\pekseg\pekseg\pekseg\obj\Debug\pekseg.exe
+C:\programozas\asztalialkalmazasok\pekseg\pekseg\pekseg\obj\Debug\pekseg.pdb
